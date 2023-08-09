@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
 })
 
 export class AppComponent implements OnInit {
+    feature2 = 0;
     constructor() { }
 
     ngOnInit() { }
